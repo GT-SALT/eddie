@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eddie/static/css/main.5f361e03.chunk.css",
-    "main.js": "/eddie/static/js/main.387ab45c.chunk.js",
-    "main.js.map": "/eddie/static/js/main.387ab45c.chunk.js.map",
+    "main.css": "/eddie/static/css/main.9d186620.chunk.css",
+    "main.js": "/eddie/static/js/main.7701ef21.chunk.js",
+    "main.js.map": "/eddie/static/js/main.7701ef21.chunk.js.map",
     "runtime-main.js": "/eddie/static/js/runtime-main.e45789e5.js",
     "runtime-main.js.map": "/eddie/static/js/runtime-main.e45789e5.js.map",
     "static/js/2.2592999a.chunk.js": "/eddie/static/js/2.2592999a.chunk.js",
     "static/js/2.2592999a.chunk.js.map": "/eddie/static/js/2.2592999a.chunk.js.map",
     "index.html": "/eddie/index.html",
-    "precache-manifest.1777b6315a3da00a8c04f375e434683f.js": "/eddie/precache-manifest.1777b6315a3da00a8c04f375e434683f.js",
+    "precache-manifest.1d74b406ab935d9b4ea4ebf45c6c9aaa.js": "/eddie/precache-manifest.1d74b406ab935d9b4ea4ebf45c6c9aaa.js",
     "service-worker.js": "/eddie/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/eddie/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.9d186620.chunk.css.map": "/eddie/static/css/main.9d186620.chunk.css.map",
     "static/js/2.2592999a.chunk.js.LICENSE.txt": "/eddie/static/js/2.2592999a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e45789e5.js",
     "static/js/2.2592999a.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.387ab45c.chunk.js"
+    "static/css/main.9d186620.chunk.css",
+    "static/js/main.7701ef21.chunk.js"
   ]
 }
