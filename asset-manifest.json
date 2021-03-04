@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/eddie/static/css/main.31958b96.chunk.css",
-    "main.js": "/eddie/static/js/main.d7d7a337.chunk.js",
-    "main.js.map": "/eddie/static/js/main.d7d7a337.chunk.js.map",
+    "main.js": "/eddie/static/js/main.529acced.chunk.js",
+    "main.js.map": "/eddie/static/js/main.529acced.chunk.js.map",
     "runtime-main.js": "/eddie/static/js/runtime-main.b421db81.js",
     "runtime-main.js.map": "/eddie/static/js/runtime-main.b421db81.js.map",
-    "static/js/2.d4072afe.chunk.js": "/eddie/static/js/2.d4072afe.chunk.js",
-    "static/js/2.d4072afe.chunk.js.map": "/eddie/static/js/2.d4072afe.chunk.js.map",
+    "static/js/2.dce78095.chunk.js": "/eddie/static/js/2.dce78095.chunk.js",
+    "static/js/2.dce78095.chunk.js.map": "/eddie/static/js/2.dce78095.chunk.js.map",
     "index.html": "/eddie/index.html",
-    "precache-manifest.f3fd7cfaab7ba8e431229d73a48ca4f8.js": "/eddie/precache-manifest.f3fd7cfaab7ba8e431229d73a48ca4f8.js",
+    "precache-manifest.ba7a9b572b30cdee2d3f2536deb31af2.js": "/eddie/precache-manifest.ba7a9b572b30cdee2d3f2536deb31af2.js",
     "service-worker.js": "/eddie/service-worker.js",
     "static/css/main.31958b96.chunk.css.map": "/eddie/static/css/main.31958b96.chunk.css.map",
-    "static/js/2.d4072afe.chunk.js.LICENSE.txt": "/eddie/static/js/2.d4072afe.chunk.js.LICENSE.txt"
+    "static/js/2.dce78095.chunk.js.LICENSE.txt": "/eddie/static/js/2.dce78095.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b421db81.js",
-    "static/js/2.d4072afe.chunk.js",
+    "static/js/2.dce78095.chunk.js",
     "static/css/main.31958b96.chunk.css",
-    "static/js/main.d7d7a337.chunk.js"
+    "static/js/main.529acced.chunk.js"
   ]
 }
